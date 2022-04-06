@@ -90,3 +90,5 @@
 1649237378489|0|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/test|SELECT  oid,mname,murl,mid  FROM menus2|SELECT  oid,mname,murl,mid  FROM menus2
 1649237802345|15|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/test|SELECT  oid,mname,murl,mid  FROM menus2|SELECT  oid,mname,murl,mid  FROM menus2
 1649237802365|0|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/test|SELECT  oid,mname,murl,mid  FROM menus2|SELECT  oid,mname,murl,mid  FROM menus2
+1649237838462|11|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/test|SELECT  oid,mname,murl,mid  FROM menus2|SELECT  oid,mname,murl,mid  FROM menus2
+1649237838484|1|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/test|SELECT  oid,mname,murl,mid  FROM menus2|SELECT  oid,mname,murl,mid  FROM menus2
